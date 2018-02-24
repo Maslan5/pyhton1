@@ -1,6 +1,3 @@
-kaan
-deneme
-baki ahmet2
-
-baki ahmet3
-k
+def fonk(n):
+    return n**2
+print(int(input("lütfen bit tam sayı giriniz")))
